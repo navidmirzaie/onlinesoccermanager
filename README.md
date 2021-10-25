@@ -1,4 +1,3 @@
-
 ### Domeinen
 
 - clubs
@@ -41,6 +40,8 @@ voorlopig selectie uit twee leagues:
 score club statistieken:
 `Math.floor((Keeper + verdediging + middenveld + aanval) / 4)`
 
+### match
+
 Een match bestaat uit 2 teams
 
 - TeamA vs teamB
@@ -48,6 +49,4 @@ Een match bestaat uit 2 teams
 - Thuisspelend team heeft een extra geluksfactor van x (nader te bepalen)
 - een match duurt 90 minuten (pak hem beet 5 minuten versneld)
 - een match heeft 2e helften waarvan deze per helft 45 minuten duren (2.5 minuut)
-
-
-
+- zwakkere team moet altijd een kans hebben om te winnen, dit is een geluksfactoor.
